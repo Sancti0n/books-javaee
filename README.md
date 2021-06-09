@@ -1,2 +1,2 @@
-# books-javaee
+# Books JavaEE
 Management of book collections
